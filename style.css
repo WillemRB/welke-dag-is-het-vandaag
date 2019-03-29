@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#content {}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+li {
+    font-size: 24px;
+}
+
+li:first-letter {
+    text-transform: capitalize;
+}
